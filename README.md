@@ -1,0 +1,1 @@
+Example multi-market architecture
